@@ -23,4 +23,4 @@ Face to face tutoring is offered at a rate of £30/hr, availability dependent on
 Get in touch
 =====
 
-To contact me please use the e-mail given on the sidebar of this page, or text/whatsapp me at 07399 591634.
+To contact me please e-mail me at callumjeffs@outlook.com (accessible from the sidebar of this page), or text/whatsapp me at 07399 591634.
