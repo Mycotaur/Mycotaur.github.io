@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * MCompSciPhil in Computer Science and Philosophy, University of Oxford, 2027 (expected)
-* A-levels in English (A*), Mathematics (A*), Computer Science (A), Extended Project Qualification (A), Philosophy (B), Cardinal Vaughan Memorial School, 2023
+* A-levels in English (A\*), Mathematics (A\*), Computer Science (A), Extended Project Qualification (A), Philosophy (B), Cardinal Vaughan Memorial School, 2023
 * GCSEs in 11 subjects, all grade 8 and 9.
 
 Employment
