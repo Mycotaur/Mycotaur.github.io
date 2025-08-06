@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-UK"
+locale                   : "utf-8"
 site_theme               : "default"
 title                    : "Callum Jeffs / Tutoring Services"
 title_separator          : "-"
