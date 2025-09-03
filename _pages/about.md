@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-\[Tutoring Service Name\] is operated by Callum Jeffs, a student at the University of Oxford, pursuing a Masters in Computer Science and Philosophy. They have a strong background in both the STEM and humanities, and experience of 1-1 tutoring as well as classroom teaching. A skilled and engaging communicator, knowledgeable in core subject areas, with training in pedagogy, safeguarding and SEND - they're sure to be a valuable tool for your child's learning journey.
+This website and the tutoring services it advertises are operated by Callum Jeffs, a student at the University of Oxford, pursuing a Masters in Computer Science and Philosophy. They have a strong background in both the STEM and humanities, and experience of 1-1 tutoring as well as classroom teaching. A skilled and engaging communicator, knowledgeable in core subject areas, with training in pedagogy, safeguarding and SEND - they're sure to be a valuable tool for your child's learning journey.
 
 What we offer
 ======
